@@ -1,0 +1,4 @@
+<runtime>
+/"pat"
+/;"upload"
+/;apk
