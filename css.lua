@@ -1,0 +1,3 @@
+/;"config"
+/"pat"
+/;"script"
